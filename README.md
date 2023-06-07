@@ -1,14 +1,16 @@
 # Hotel-Revenue-Forecasting
 Forecasting revenue of hotels using machine learning techniques.
 
-![img](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/84504583-f927-44c7-8350-e14d269607b4)
-![img2](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/8e85ab97-0972-4828-872b-64d7dd1a0189)
-![img3](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/8d484a76-fae7-46ea-bac0-1987401612d9)
-![ml1](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/0f33b5e1-6648-466b-bfe9-cd2236947bc8)
-![ml2](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/80ea3a42-d6ea-420a-aa3c-828b2750eb3d)
-![ml3](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/669950b4-9a05-4c1b-a79f-addac8540f52)
-![ml4](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/72299f11-5cf6-454d-a35d-fcc7f7698a32)
-![ml5](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/adcc827a-e9ab-4ca2-ad58-656e0156bb5f)
-![ml6](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/4d30140c-0d3e-4d23-9d33-bbaca9dc8c89)
-![ml7](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/ce300f88-c121-46b5-a66e-bda5f9add299)
+![ApplicationDocumentation_page-0001](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/508895b0-9143-4262-ba17-42de2ae26b9f)
+![ApplicationDocumentation_page-0002](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/37b12442-ad45-4e5a-a46c-cf07426b2797)
+![ApplicationDocumentation_page-0003](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/1e889e6d-4bf0-413b-a436-0b427d1b0840)
+![MLDocumentation_page-0001](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/10f440a8-0a01-4125-ab65-3974f7ad7797)
+![MLDocumentation_page-0002](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/b4d529a8-0dc2-4be5-b1ab-71e39edfffe6)
+![MLDocumentation_page-0003](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/631c17d4-6378-4a44-8942-562cfc88e9a6)
+![MLDocumentation_page-0004](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/31f6a235-adb7-4164-bdfc-332b68032573)
+![MLDocumentation_page-0005](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/255868b4-a7f5-485c-9dcb-d87501fee12b)
+![MLDocumentation_page-0006](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/9427b304-f3fb-4640-8dec-836b699aab99)
+![MLDocumentation_page-0007](https://github.com/apoorv19151/Hotel-Revenue-Forecasting/assets/55681145/24ce64ef-9d77-4e7d-8bc2-db4e109ae4d2)
+
+
 
